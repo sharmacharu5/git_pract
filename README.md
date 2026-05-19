@@ -1,1 +1,1 @@
-learning how to make a readme file.
+console.log("how it looks?")
